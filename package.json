@@ -1,0 +1,14 @@
+{
+  "name": "testcafe_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./tests"
+  },
+  "author": "lgalaz",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.15.0"
+  }
+}
